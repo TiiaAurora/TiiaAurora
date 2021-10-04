@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my Discord-Bot SmartSnek
+- 🔭 I’m currently working on my Discord-Bot SmartSnek - He's a smart boy.
 - 🌱 I’m currently learning Python
 - 💬 Ask me about my cat 
 - 📫 How to reach me: Twitter: @TiiaAurora or Discord TiiaAurora#1337
