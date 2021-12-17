@@ -23,4 +23,4 @@ Here are some ideas to get you started:-->
 - 💕 I'm also working on HandsomeSquidward - a Discord-Bot, that works with the ARK API to provide Server- and Dinosaur-Data to my Community. 
 - 👓 "Twitch to Python" let's creators import their Twitch-Data into a Notion Database to further analyze it. 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiiaaurora&layout=compact&theme=synthwave&count_private=true" alt="Most used languages"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=tiiaaurora&count_private=true&theme=synthwave" alt="">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiiaaurora&layout=compact&theme=synthwave&count_private=true" alt="Most used languages">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tiiaaurora&count_private=true&theme=synthwave" alt="">
