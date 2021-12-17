@@ -1,3 +1,4 @@
+![Tiia Aurora Banner](https://github.com/TiiaAurora/TiiaAurora/blob/main/banner.jpg)
 ### Hi there 👋
 
 <!--
@@ -12,4 +13,4 @@ Here are some ideas to get you started:-->
 - 👩 Pronouns: she/her
 - 💀 Fun fact: I worked in the Archeology before - Yes I digged out dead people
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiiaaurora&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Tiias's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiiaaurora&count_private=true&theme=synthwave)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiiaaurora&layout=compact&theme=synthwave&count_private=true" alt="Most used languages"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=tiiaaurora&count_private=true&theme=synthwave" alt="">
