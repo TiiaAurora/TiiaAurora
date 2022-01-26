@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🐈 Ask me about my cat 
 - 📫 How to reach me: Twitter: @TiiaAurora or Discord TiiaAurora#1337
 - 👩 Pronouns: she/her
-- 💀 Fun fact: I worked in the Archeology before - Yes I digged out dead people
+- 💀 Fun fact: I worked in the Archeology before - Yes I dug out dead people
 
 
 ![Tiia Aurora Programming Languages](https://github.com/TiiaAurora/TiiaAurora/blob/main/languages.png)
