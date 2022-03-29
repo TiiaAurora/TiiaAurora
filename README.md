@@ -22,5 +22,6 @@ Here are some ideas to get you started:-->
 - 🐍 I’m currently working on my Discord-Bot SmartSnek - A bot connecting to Notion.so as a backend providing a knowledgebase
 - 💕 I'm also working on HandsomeSquidward - a Discord-Bot, that works with the ARK API to provide Server- and Dinosaur-Data to my Community. 
 - 👓 "Twitch to Python" let's creators import their Twitch-Data into a Notion Database to further analyze it. 
+- 🎮 LeapStone [Lost Ark Tracker](http://leapstone.netlify.app) helps you to keep track of your tasks in the MMO Lost Ark.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiiaaurora&layout=compact&theme=synthwave&count_private=true" alt="Most used languages">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tiiaaurora&count_private=true&theme=synthwave" alt="">
