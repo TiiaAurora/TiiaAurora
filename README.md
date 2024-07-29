@@ -7,19 +7,22 @@
 Here are some ideas to get you started:-->
 
 - 🐈 Ask me about my cat 
-- 📫 How to reach me: Twitter: @TiiaAurora or Discord TiiaAurora#1337
+- 📫 How to reach me: Threads: @TiiaAurora or Discord @TiiaAurora
 - 👩 Pronouns: she/her
 - 💀 Fun fact: I worked in the Archeology before - Yes I dug out dead people
-
+- 😏 I push to prod on fridays and call it "Tiia Yolo Push"
+- 🧬 I am a genetics nerd in the most wholesome way possible
 
 ![Tiia Aurora Programming Languages](https://github.com/TiiaAurora/TiiaAurora/blob/main/languages.png)
 
 - 📘 I'm currently learning Python and Svelte (JavaScript)
+- 🥰 I play with Game Engines if I have the time
 - 🌍 I'm also fiddleing with APIs
 
 ![Tiia Aurora Programming Projects](https://github.com/TiiaAurora/TiiaAurora/blob/main/projects.png)
 
-- 🐍 I’m currently working on my Discord-Bot SmartSnek - A bot connecting to Notion.so as a backend providing a knowledgebase
+- 🦖 My main project is probably the [ARKUtils website](https://arkutils.netlify.app). A collection of tools for the game ARK.
+- 🐍 I have a Discord-Bot SmartSnek - A bot connecting to Notion.so as a backend providing a knowledgebase
 - 💕 I'm also working on HandsomeSquidward - a Discord-Bot, that works with the ARK API to provide Server- and Dinosaur-Data to my Community. 
 - 👓 "Twitch to Python" let's creators import their Twitch-Data into a Notion Database to further analyze it. 
 - 🎮 LeapStone [Lost Ark Tracker](http://leapstone.netlify.app) helps you to keep track of your tasks in the MMO Lost Ark.
